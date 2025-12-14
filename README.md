@@ -1,0 +1,1 @@
+This repository contains a minimalist prototype for an adaptive math learning system. The goal is to demonstrate how AI principles (specifically, rule-based logic) can dynamically adjust the difficulty of educational puzzles based on a user's real-time performance, keeping the learner in their optimal challenge zone.
